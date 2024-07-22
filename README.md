@@ -25,11 +25,11 @@ To set up this environment, follow the steps below:
 
 1. **Clone this repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git ~/.config/nvim
+    git clone https://github.com/utkarsh20rajput/Personalized-Development-Environment ~/.config/nvim
     ```
 
 2. **Install required plugins**:
-    - Open NeoVim and run `:PackerInstall` to install the necessary plugins.
+    - Open NeoVim and run `:Lazy` to install the necessary plugins.
     
 3. **Configure language servers**:
     - Ensure you have the required language servers installed. For example:
